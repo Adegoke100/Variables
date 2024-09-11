@@ -1,0 +1,7 @@
+# Initial declaration of the variable
+name = "Mosun"
+print("Initial value of name:", name)
+
+# Redeclaration with a new value
+name = "Mola"
+print("Value of name after redeclaration:", name)
